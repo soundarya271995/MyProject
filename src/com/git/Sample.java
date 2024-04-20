@@ -9,14 +9,14 @@ private void method1() {
 private void method3() {
 	System.out.println("completed3");
 }
-private void method4() {
-	System.out.println("completed1");
+private void method5() {
+	System.out.println("conflict");
 }
 public static void main(String[] args) {
 	Sample s = new Sample();
 	s.method1();
 	s.method2();
 	s.method3();
-	s.method4();
+	s.method5();
 }
 }
