@@ -4,7 +4,7 @@ public class Sample {
 private void method1() {
 	System.out.println("completed");
 }private void method2() {
-	System.out.println("completed1");
+	System.out.println("completed3");
 }
 private void method3() {
 	System.out.println("completed2");
