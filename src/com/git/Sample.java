@@ -15,5 +15,6 @@ public static void main(String[] args) {
 	s.method1();
 	s.method2();
 	s.method3();
+	
 }
 }
